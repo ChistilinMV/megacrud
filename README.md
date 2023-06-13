@@ -59,6 +59,8 @@ FROM orders;
 
 Test CRUD app on python with GUI on PySide6
 
+[Download EXEcutable](megacrud.exe)
+
 [![Общий вид](./assets/overview.png)](./assets/overview.png)
 
 [![Добавление](./assets/new_record.png)](./assets/new_record.png)
