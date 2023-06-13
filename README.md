@@ -59,7 +59,7 @@ FROM orders;
 
 Test CRUD app on python with GUI on PySide6
 
-[Download EXEcutable](megacrud.exe)
+[Download EXEcutable](https://github.com/ChistilinMV/megacrud/raw/master/megacrud.exe)
 
 [![Общий вид](./assets/overview.png)](./assets/overview.png)
 
